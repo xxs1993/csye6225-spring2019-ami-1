@@ -1,5 +1,7 @@
 # AWS AMI for CSYE 6225
 
+[![CircleCI](https://circleci.com/gh/tejasparikh/csye6225-spring2019-ami.svg?style=svg)](https://circleci.com/gh/tejasparikh/csye6225-spring2019-ami)
+
 ## Team Information
 
 | Name | NEU ID | Email Address |
